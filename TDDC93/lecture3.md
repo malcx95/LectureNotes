@@ -46,3 +46,20 @@ Example "The system shall be implemented in php"
 - Usability
 - ...
 
+### User interface requirements
+
+An integral part of most applications now and often a major selling point for the 
+customer.
+- easy to operate
+- quick in response
+- ...
+
+### Features
+
+A distinguising characteristic of a system item.
+
+Higher level stuff, used in advertising.
+
+"The system shall have an SMS delivery notification service"
+
+
