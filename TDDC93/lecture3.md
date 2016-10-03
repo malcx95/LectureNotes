@@ -36,6 +36,8 @@ Example "The system shall be implemented in php"
 
 - Quality requirements
 
+Example "Minimum response time should be 2.0 seconds."
+
 ### Other domains for non functional requirements
 
 - Scalability
@@ -61,5 +63,28 @@ A distinguising characteristic of a system item.
 Higher level stuff, used in advertising.
 
 "The system shall have an SMS delivery notification service"
+
+### Software Requirements Specification (SRS)
+
+Requirements in a good SRS are:
+- Numbered
+- Inspected
+- Prioritised
+- Unambiguous
+- Testable
+- Complete
+- Consistent
+- Traceable
+- Feasible
+- Modifiable
+- Useful for operation, maintenance, customer, developer...
+
+### Use-case modeling
+A use case is a particular form or pattern or exemplar of usage, a scenario that
+begins with some user of the system initiating some transaction of sequence of 
+interrelated events.
+
+- Pretty much just a description of an example usage of the system.
+- Often expressed in UML-notation
 
 
