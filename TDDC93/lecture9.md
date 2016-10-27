@@ -56,4 +56,18 @@ by delivery.
 
 - __Standards and Procedure__
 
+## Blackbox/closed box testing
+
+Testing only on specification.
+
+### Exhaustive testing
+
+Testing with every member of the input value space - the set of all possible input
+values to the program.
+
+### Equvalence class testing
+
+A technique used to reduce the number of test cases while still maintaining a 
+reasonable coverage. The input space is divided into equivalence classes, where all
+members of each class are should be equivalently handled by the program.
 
