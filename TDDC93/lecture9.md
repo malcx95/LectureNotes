@@ -65,9 +65,10 @@ Testing only on specification.
 Testing with every member of the input value space - the set of all possible input
 values to the program.
 
-### Equvalence class testing
+### Equivalence class testing
 
 A technique used to reduce the number of test cases while still maintaining a 
 reasonable coverage. The input space is divided into equivalence classes, where all
 members of each class are should be equivalently handled by the program.
+
 
