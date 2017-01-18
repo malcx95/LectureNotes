@@ -11,7 +11,7 @@
     - effektmål, brukskvaliteter etc
 6. Upprepa 2-5 tills systemet uppfyller kraven.
 
-## Användarsituationen
+## 2: Användarsituationen
 
 Metoder för att samla in data om användarsituationen:
 
@@ -51,4 +51,62 @@ För stora projekt: 70-100 användare, 5 vardera av övriga intressenter.
 
 ### Andra metoder: Observation
 
+- Olika typer:
+    - Flugan på väggen
+    - Skuggning
+    - Kontextuell undersökning
+    - Hemlig agent
+
+- Observationsprotokoll - fältanteckningar
+    - ledtrådar till vad som pågår och förväntas, vad ska tittas efter? Frustrationer?
+    Hur är det när det är bra? Dåligt?
+
+- Skilj på observationer och tolkningar
+
+### Etik
+
+- Informerat samtycke
+    - Veta varför man observeras/intervjuas
+    - Skriftligt medgivande
+- Anonymitet - ska inte finnas risk för deltagaren.
+- Be om tillåtelse att spela in.
+- Se till att deltagarna får möjlighet att ta del av resultaten,
+- Om informanterna är barn krävs målsmans medgivande.
+
+### Sensmoral?
+
+- Motanvändaren/kunden
+    - Lyssna på användaren så väl som på kunden/beställaren
+    - Prata med kunden/användare inte bara initialt utan genom hela projektet.
+    Kommunicera problemformulering och lösningsförslag på lättbegripligt sätt
+
+## 3: Beskriv användarens och verksamhetens krav
+
+### Personor
+
+- En teknik för att analysera och komprimera användardata
+- Beskriver och förklarar de viktigaste beteendemönstren man hittar i data
+- Konstrueras från intervjudata genom analys
+- Effektivt sätt att kommunicera stora mängder data
+- Varför fungerar personor?
+    - Människor kategoriserar automatiskt andra människor och lagrar information om dem
+    effektivt.
+    - Människor reagerar instinktivt på andra människor, det sociala systemet kopplas in
+    och aktiverar empatin.
+
+Se boken för konstruktion av dessa.
+
+#### Att arbeta med personor 
+- 1 primär persona och 2-4 sekundära per användar-roll.
+- Personorna används för att fastställa krav och mål med systemet.
+    - Därför går det snabbt att bedöma t ex vilka av två lösningar en persona skulle föredra.
+    - Genererandet av lösningsförslag anpassade till personan underlättas.
+- Personor kan användas för att kommunicera befintliga så väl som föreslagna händelseförlopp
+i scenarios eller storyboards.
+
+#### Förstå användarsitutationen
+- Scenario
+    - text om något som händer, ofta kring en persona
+- Storyboard
+    - ser ut som en serie bilder med text, utgår från persona
 
